@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\X3\\source\\repos\\AuthenticationIdentity\\AuthenticationIdentity\\AuthenticationIdentity.csproj": {}
+    "D:\\Rohit_Mehera\\Authority\\AuthenticationIdentity\\AuthenticationIdentity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\X3\\source\\repos\\AuthenticationIdentity\\AuthenticationIdentity\\AuthenticationIdentity.csproj": {
+    "D:\\Rohit_Mehera\\Authority\\AuthenticationIdentity\\AuthenticationIdentity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\X3\\source\\repos\\AuthenticationIdentity\\AuthenticationIdentity\\AuthenticationIdentity.csproj",
+        "projectUniqueName": "D:\\Rohit_Mehera\\Authority\\AuthenticationIdentity\\AuthenticationIdentity.csproj",
         "projectName": "AuthenticationIdentity",
-        "projectPath": "C:\\Users\\X3\\source\\repos\\AuthenticationIdentity\\AuthenticationIdentity\\AuthenticationIdentity.csproj",
-        "packagesPath": "C:\\Users\\X3\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\X3\\source\\repos\\AuthenticationIdentity\\AuthenticationIdentity\\obj\\",
+        "projectPath": "D:\\Rohit_Mehera\\Authority\\AuthenticationIdentity\\AuthenticationIdentity.csproj",
+        "packagesPath": "C:\\Users\\rohit\\.nuget\\packages\\",
+        "outputPath": "D:\\Rohit_Mehera\\Authority\\AuthenticationIdentity\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\X3\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rohit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -35,11 +39,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -88,7 +87,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

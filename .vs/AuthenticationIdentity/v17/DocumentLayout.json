@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\X3\\source\\repos\\AuthenticationIdentity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{768E2B6D-4ACC-4CFA-89AA-E9127BCBD295}|AuthenticationIdentity\\AuthenticationIdentity.csproj|c:\\users\\x3\\source\\repos\\authenticationidentity\\authenticationidentity\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{768E2B6D-4ACC-4CFA-89AA-E9127BCBD295}|AuthenticationIdentity\\AuthenticationIdentity.csproj|solutionrelative:authenticationidentity\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{768E2B6D-4ACC-4CFA-89AA-E9127BCBD295}|AuthenticationIdentity\\AuthenticationIdentity.csproj|c:\\users\\x3\\source\\repos\\authenticationidentity\\authenticationidentity\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{768E2B6D-4ACC-4CFA-89AA-E9127BCBD295}|AuthenticationIdentity\\AuthenticationIdentity.csproj|solutionrelative:authenticationidentity\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{768E2B6D-4ACC-4CFA-89AA-E9127BCBD295}|AuthenticationIdentity\\AuthenticationIdentity.csproj|c:\\users\\x3\\source\\repos\\authenticationidentity\\authenticationidentity\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{768E2B6D-4ACC-4CFA-89AA-E9127BCBD295}|AuthenticationIdentity\\AuthenticationIdentity.csproj|solutionrelative:authenticationidentity\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{768E2B6D-4ACC-4CFA-89AA-E9127BCBD295}|AuthenticationIdentity\\AuthenticationIdentity.csproj|c:\\users\\x3\\source\\repos\\authenticationidentity\\authenticationidentity\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{768E2B6D-4ACC-4CFA-89AA-E9127BCBD295}|AuthenticationIdentity\\AuthenticationIdentity.csproj|solutionrelative:authenticationidentity\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{768E2B6D-4ACC-4CFA-89AA-E9127BCBD295}|AuthenticationIdentity\\AuthenticationIdentity.csproj|c:\\users\\x3\\source\\repos\\authenticationidentity\\authenticationidentity\\areas\\identity\\data\\authenticationidentitycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{768E2B6D-4ACC-4CFA-89AA-E9127BCBD295}|AuthenticationIdentity\\AuthenticationIdentity.csproj|solutionrelative:authenticationidentity\\areas\\identity\\data\\authenticationidentitycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{768E2B6D-4ACC-4CFA-89AA-E9127BCBD295}|AuthenticationIdentity\\AuthenticationIdentity.csproj|c:\\users\\x3\\source\\repos\\authenticationidentity\\authenticationidentity\\areas\\identity\\data\\authenticationidentityuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{768E2B6D-4ACC-4CFA-89AA-E9127BCBD295}|AuthenticationIdentity\\AuthenticationIdentity.csproj|solutionrelative:authenticationidentity\\areas\\identity\\data\\authenticationidentityuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{768E2B6D-4ACC-4CFA-89AA-E9127BCBD295}|AuthenticationIdentity\\AuthenticationIdentity.csproj|c:\\users\\x3\\source\\repos\\authenticationidentity\\authenticationidentity\\models\\newuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{768E2B6D-4ACC-4CFA-89AA-E9127BCBD295}|AuthenticationIdentity\\AuthenticationIdentity.csproj|solutionrelative:authenticationidentity\\models\\newuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{768E2B6D-4ACC-4CFA-89AA-E9127BCBD295}|AuthenticationIdentity\\AuthenticationIdentity.csproj|c:\\users\\x3\\source\\repos\\authenticationidentity\\authenticationidentity\\migrations\\20240904071727_firstcommit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{768E2B6D-4ACC-4CFA-89AA-E9127BCBD295}|AuthenticationIdentity\\AuthenticationIdentity.csproj|solutionrelative:authenticationidentity\\migrations\\20240904071727_firstcommit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{768E2B6D-4ACC-4CFA-89AA-E9127BCBD295}|AuthenticationIdentity\\AuthenticationIdentity.csproj|c:\\users\\x3\\source\\repos\\authenticationidentity\\authenticationidentity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{768E2B6D-4ACC-4CFA-89AA-E9127BCBD295}|AuthenticationIdentity\\AuthenticationIdentity.csproj|solutionrelative:authenticationidentity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{768E2B6D-4ACC-4CFA-89AA-E9127BCBD295}|AuthenticationIdentity\\AuthenticationIdentity.csproj|c:\\users\\x3\\source\\repos\\authenticationidentity\\authenticationidentity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{768E2B6D-4ACC-4CFA-89AA-E9127BCBD295}|AuthenticationIdentity\\AuthenticationIdentity.csproj|solutionrelative:authenticationidentity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{768E2B6D-4ACC-4CFA-89AA-E9127BCBD295}|AuthenticationIdentity\\AuthenticationIdentity.csproj|c:\\users\\x3\\source\\repos\\authenticationidentity\\authenticationidentity\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{768E2B6D-4ACC-4CFA-89AA-E9127BCBD295}|AuthenticationIdentity\\AuthenticationIdentity.csproj|solutionrelative:authenticationidentity\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\X3\\source\\repos\\AuthenticationIdentity\\AuthenticationIdentity\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "AuthenticationIdentity\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\X3\\source\\repos\\AuthenticationIdentity\\AuthenticationIdentity\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "AuthenticationIdentity\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAAAGIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T07:54:06.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\X3\\source\\repos\\AuthenticationIdentity\\AuthenticationIdentity\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "AuthenticationIdentity\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\X3\\source\\repos\\AuthenticationIdentity\\AuthenticationIdentity\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "AuthenticationIdentity\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAIMAAAAAAAAAAAAAwIwAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T07:26:34.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\X3\\source\\repos\\AuthenticationIdentity\\AuthenticationIdentity\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "AuthenticationIdentity\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\X3\\source\\repos\\AuthenticationIdentity\\AuthenticationIdentity\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "AuthenticationIdentity\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAwBgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T07:26:27.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\X3\\source\\repos\\AuthenticationIdentity\\AuthenticationIdentity\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AuthenticationIdentity\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\X3\\source\\repos\\AuthenticationIdentity\\AuthenticationIdentity\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AuthenticationIdentity\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAuwAoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T07:23:55.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240904071727_FirstCommit.cs",
+              "DocumentMoniker": "C:\\Users\\X3\\source\\repos\\AuthenticationIdentity\\AuthenticationIdentity\\Migrations\\20240904071727_FirstCommit.cs",
+              "RelativeDocumentMoniker": "AuthenticationIdentity\\Migrations\\20240904071727_FirstCommit.cs",
+              "ToolTip": "C:\\Users\\X3\\source\\repos\\AuthenticationIdentity\\AuthenticationIdentity\\Migrations\\20240904071727_FirstCommit.cs",
+              "RelativeToolTip": "AuthenticationIdentity\\Migrations\\20240904071727_FirstCommit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T07:17:27.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\X3\\source\\repos\\AuthenticationIdentity\\AuthenticationIdentity\\Program.cs",
+              "RelativeDocumentMoniker": "AuthenticationIdentity\\Program.cs",
+              "ToolTip": "C:\\Users\\X3\\source\\repos\\AuthenticationIdentity\\AuthenticationIdentity\\Program.cs",
+              "RelativeToolTip": "AuthenticationIdentity\\Program.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T07:06:27.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\X3\\source\\repos\\AuthenticationIdentity\\AuthenticationIdentity\\appsettings.json",
+              "RelativeDocumentMoniker": "AuthenticationIdentity\\appsettings.json",
+              "ToolTip": "C:\\Users\\X3\\source\\repos\\AuthenticationIdentity\\AuthenticationIdentity\\appsettings.json",
+              "RelativeToolTip": "AuthenticationIdentity\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-04T07:03:33.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthenticationIdentityUser.cs",
+              "DocumentMoniker": "C:\\Users\\X3\\source\\repos\\AuthenticationIdentity\\AuthenticationIdentity\\Areas\\Identity\\Data\\AuthenticationIdentityUser.cs",
+              "RelativeDocumentMoniker": "AuthenticationIdentity\\Areas\\Identity\\Data\\AuthenticationIdentityUser.cs",
+              "ToolTip": "C:\\Users\\X3\\source\\repos\\AuthenticationIdentity\\AuthenticationIdentity\\Areas\\Identity\\Data\\AuthenticationIdentityUser.cs",
+              "RelativeToolTip": "AuthenticationIdentity\\Areas\\Identity\\Data\\AuthenticationIdentityUser.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T07:02:50.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthenticationIdentityContext.cs",
+              "DocumentMoniker": "C:\\Users\\X3\\source\\repos\\AuthenticationIdentity\\AuthenticationIdentity\\Areas\\Identity\\Data\\AuthenticationIdentityContext.cs",
+              "RelativeDocumentMoniker": "AuthenticationIdentity\\Areas\\Identity\\Data\\AuthenticationIdentityContext.cs",
+              "ToolTip": "C:\\Users\\X3\\source\\repos\\AuthenticationIdentity\\AuthenticationIdentity\\Areas\\Identity\\Data\\AuthenticationIdentityContext.cs",
+              "RelativeToolTip": "AuthenticationIdentity\\Areas\\Identity\\Data\\AuthenticationIdentityContext.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAmwAkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T07:02:49.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\X3\\source\\repos\\AuthenticationIdentity\\AuthenticationIdentity\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "AuthenticationIdentity\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\X3\\source\\repos\\AuthenticationIdentity\\AuthenticationIdentity\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "AuthenticationIdentity\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-04T07:02:24.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NewUser.cs",
+              "DocumentMoniker": "C:\\Users\\X3\\source\\repos\\AuthenticationIdentity\\AuthenticationIdentity\\Models\\NewUser.cs",
+              "RelativeDocumentMoniker": "AuthenticationIdentity\\Models\\NewUser.cs",
+              "ToolTip": "C:\\Users\\X3\\source\\repos\\AuthenticationIdentity\\AuthenticationIdentity\\Models\\NewUser.cs",
+              "RelativeToolTip": "AuthenticationIdentity\\Models\\NewUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T06:59:33.585Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
